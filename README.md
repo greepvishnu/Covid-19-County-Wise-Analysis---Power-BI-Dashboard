@@ -82,3 +82,9 @@ To analyze the year-over-year change in Covid cases, the following DAX function 
 Step 12: Created a second page in the report using Page Navigator with the title "RCA of Cases".
 
 Step 13: Utilized a Decomposition Tree to conduct a root cause analysis of the Covid cases.
+
+![PowerBi chart Full view](https://github.com/user-attachments/assets/ef59b19c-5df2-4827-b5bc-460514e2d52d)
+
+
+
+
