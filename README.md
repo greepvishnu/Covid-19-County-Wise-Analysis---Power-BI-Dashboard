@@ -83,6 +83,8 @@ Step 12: Created a second page in the report using Page Navigator with the title
 
 Step 13: Utilized a Decomposition Tree to conduct a root cause analysis of the Covid cases.
 
+Attached the Screenshoots of the Power BI Dashboards below
+
 ![PowerBi chart Full view](https://github.com/user-attachments/assets/ef59b19c-5df2-4827-b5bc-460514e2d52d)
 
 
